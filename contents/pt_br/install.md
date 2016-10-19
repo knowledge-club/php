@@ -7,8 +7,8 @@ O processo de instalação do xampp é bem parecido nos principais sistemas oper
 
 ## Como Instalar o PHP no Ubuntu <a name="ubuntu"></a>
 
-1. Passo vá para [XamppInstaller](https://www.apachefriends.org/pt_br/download.html)
-2. Passo Clique em download na versão 7.x
+1. Vá para [XamppInstaller](https://www.apachefriends.org/pt_br/download.html)
+2. Clique em download na versão 7.x
 3. Abra o seu terminal ctrl + alt + t.
 4. Digite o seguinte comando ```cd Downloads.```
 5. Altere a permissão de seu instalador ```chmod 755 xampp-linux-xxx-installer.run```
@@ -16,19 +16,20 @@ O processo de instalação do xampp é bem parecido nos principais sistemas oper
 7. [Instalando o Xampp](#instalando_xampp)
 
 ### Abrindo o xampp panel
-15. Para abrir o xampp panel abra o terminal ctrl + alt + t  Digite: ```cd /opt/lampp```
-16. Em Seguida ```sudo chmod 777 manager-linux-xxx.run ```
-17. e ```sudo ./manager-linux-x64.run```pronto o seu xampp panel está sendo executado.
+1. Para abrir o xampp panel abra o terminal ctrl + alt + t  Digite: ```cd /opt/lampp```
+2. Em Seguida ```sudo chmod 777 manager-linux-xxx.run ```
+3. e ```sudo ./manager-linux-x64.run```
+4. Pronto o seu xampp panel já está sendo executado.
 
-## Como Instalar o PHP no Ubuntu<a name="windows"></a>
+## Como Instalar o PHP no Windows<a name="windows"></a>
 
-1. Passo vá para https://www.apachefriends.org/pt_br/download.html.
-2. Passo Clique em download na versão 7.x
+1. Vá para [XamppInstaller](https://www.apachefriends.org/pt_br/download.html)
+2. Clique em download na versão 7.x
 3. Quando for solicitado o download, clique em "Salvar" e aguarde o download terminar.
 4. Assim que terminar o download, Abra o instalador
 5. [Instalando o Xampp](#instalando_xampp)
 6. Na área de trabalho clique no ícone do xampp.
-8. Inicie os componentes Apache e MySQL. Você também poderá iniciar os outros componentes, caso pretenda usá-los.
+8. Você também poderá iniciar os outros componentes, caso pretenda usá-los.
 
 Pronto seu xampp já está instalado!
 
@@ -58,7 +59,7 @@ Pronto seu xampp já está instalado!
 ![Instalando o xampp](../../images/xampp7.png)
 
 8. Selecione o seu Apache Web Server e clique em "Start"
-9. Abra seu navegador e digite localhost e pronto o seu apache server já está pronto.
+9. Abra seu navegador e digite localhost e o seu apache server já está pronto.
 
 
 ## O que é Xampp<a name="xampp">
