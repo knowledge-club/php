@@ -37,29 +37,37 @@ Congrats your xampp already is installed.
 
 - [What is Xampp?](#xampp)
 
-1. When running the installer appears the xampp's installation window:
+1 . When running the installer appears the xampp's installation window:
+
 ![Instalando o xampp](../../images/xampp1.png)
 
-2. Click on "Next" will be shown following window:
+2 . Click on "Next" will be shown following window:
+
 ![Instalando o xampp](../../images/xampp2.png)
 
-3. Click on "Next"
+3 . Click on "Next"
+
 ![Instalando o xampp](../../images/xampp3.png)
 
-4. Click once more on "Next"
+4 . Click once more on "Next"
+
 ![Instalando o xampp](../../images/xampp4.png)
 
-5. "Next", once more. Wait for the installation:
+5 . "Next", once more. Wait for the installation:
+
 ![Instalando o xampp](../../images/xampp5.png)
 
-6. When finished, this is the last window:
+6 . When finished, this is the last window:
+
 ![Instalando o xampp](../../images/xampp6.png)
 
-7. Click on "Finish" and will open the following window:
+7 . Click on "Finish" and will open the following window:
+
 ![Instalando o xampp](../../images/xampp7.png)
 
-8. Select your Apache Web Server and click on "Start"
-9. Open your browser then type ```http://localhost``` and your apache server is ready.
+8 . Select your Apache Web Server and click on "Start"
+
+9 . Open your browser then type ```http://localhost``` and your apache server is ready.
 
 
 ## What is Xampp<a name="xampp">
