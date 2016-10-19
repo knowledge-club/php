@@ -66,6 +66,7 @@ Pronto seu xampp já está instalado!
 ![Instalando o xampp](../../images/xampp7.png)
 
 8 . Selecione o seu Apache Web Server e clique em "Start"
+
 9 . Abra seu navegador e digite localhost e o seu apache server já está pronto.
 
 
