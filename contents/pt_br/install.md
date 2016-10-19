@@ -38,24 +38,31 @@ Pronto seu xampp já está instalado!
 - [O que é Xampp?](#xampp)
 
 1. Ao executar o instalador aparecerá a janela de instalação do xampp
+
 ![Instalando o xampp](../../images/xampp1.png)
 
 2. Clique em "Next" irá aparecer a seguinte janela
+
 ![Instalando o xampp](../../images/xampp2.png)
 
 3. Clique em "Next"
+
 ![Instalando o xampp](../../images/xampp3.png)
 
 4. Clique mais uma vez em "Next"
+
 ![Instalando o xampp](../../images/xampp4.png)
 
 5. "Next", mais uma vez. Aguarde a instalação:
+
 ![Instalando o xampp](../../images/xampp5.png)
 
 6. Quando terminar, esta será a última janela:
+
 ![Instalando o xampp](../../images/xampp6.png)
 
 7. Clique em "Finish" e abrirá a seguinte janela:
+
 ![Instalando o xampp](../../images/xampp7.png)
 
 8. Selecione o seu Apache Web Server e clique em "Start"
